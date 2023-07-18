@@ -1,0 +1,129 @@
+body {
+  font-family: Arial, sans-serif;
+  -webkit-tap-highlight-color:transparent;
+  background: linear-gradient(135deg, #ff8300, #ffa300);
+ // background: linear-gradient(#007bff, #9c27b0);
+  }
+
+ .body2{
+  max-width: 350px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  }
+
+  p {font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+    color: #333;
+    margin: 0;
+    padding: 0;}
+
+    h1 {
+      line-height: 1.6;
+      text-align: center;
+      font-style:oblique;
+      font-family: 'Times New Roman', Times, serif;
+    }
+
+    .my {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      margin: 0 auto;
+    background-size:cover;
+    background-position: center;
+    border: 5px solid rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    position: relative;}
+    
+    .doda2 {margin-left: 117px;}
+
+   
+
+.doda4 {
+  margin-top: 20px;
+}
+
+.doda4 p {
+  text-align: center;
+  font-size:23px ;
+  color: #555;
+  margin-bottom: 10px;
+  font-variant: small-caps;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #333;} 
+
+  .doda5 {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .doda5 a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #333;
+    font-size: 20px;
+    transition: color 0.3s ease;
+  }
+
+
+  .doda5 a:hover {
+    color: red;
+  }
+#yt{
+display: block;
+    background-color: #ffe927;
+    padding: 1.5em 0;
+    margin-top: 1.5em;
+    text-align: center;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-size: 1em;
+    text-decoration: none;
+    font-weight: 500;
+    border-radius: 0.5em;
+}
+
+
+
+ {
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 350px;
+  position: relative;
+  width: 100%;
+  height: 350px;
+  background: linear-gradient(45deg, #ffeb3b, #ff9800, #ffeb3b);
+  border-radius: 20px;
+  background-clip: content-box; 
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 20px; 
+}
+
+
+{
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  right: -10px;
+  bottom: -10px;
+  background: radial-gradient(rgba(206, 155, 16, 0.8), hsla(0, 39%, 44%, 0));
+  border-radius: 20px;
+  z-index: -1;
+  pointer-events: none;
+}
